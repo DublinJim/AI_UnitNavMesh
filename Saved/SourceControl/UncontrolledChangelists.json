@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0E/RJFCADXR2D54U8LTGO8V3T.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AQ/3T166FNMCY52896IDDTBTK.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/BP_AI_Follow.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FX/I8NUJFTQ90GJ21A4GVJFT6.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/AI_map_BuiltData.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/AI_map.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Fab/WUD_Chess_Piece_Queen/Material_1.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Fab/WUD_Chess_Piece_Queen/wud_chess_piece_queen.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Fab/WUD_Chess_Piece_Queen/wud_chess_piece_queen_texture_0.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Fab/WUD_Chess_Piece_Queen/wud_chess_piece_queen_texture_1.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Fab/WUD_Chess_Piece_Queen/wud_chess_piece_queen_texture_2.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/AiMaze.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
