@@ -2602,3 +2602,339 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.10-15.55.59:946][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 246 ms)
 [2025.02.10-15.55.59:948][810]AssetCheck: New page: Asset Save: BP_PawnForFlag
 [2025.02.10-15.55.59:948][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PawnForFlag.BP_PawnForFlag
+[2025.02.10-15.57.50:925][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6992.126953
+[2025.02.10-15.57.51:925][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-15.57.51:925][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6992.793945, Update Interval: 359.611816
+[2025.02.10-16.03.57:079][421]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.087 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 27582 files in 29845 folders with total size 7000 MiB.
+[2025.02.10-16.04.33:926][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7395.155273
+[2025.02.10-16.04.34:926][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.04.34:926][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7395.822266, Update Interval: 355.286713
+[2025.02.10-16.11.07:928][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7789.178711
+[2025.02.10-16.11.08:928][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.11.08:928][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7789.845215, Update Interval: 339.636230
+[2025.02.10-16.17.37:597][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8178.873047
+[2025.02.10-16.17.38:597][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.17.38:597][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8179.539551, Update Interval: 347.491699
+[2025.02.10-16.24.21:266][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8582.339844
+[2025.02.10-16.24.22:265][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.24.22:265][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8583.005859, Update Interval: 310.184631
+[2025.02.10-16.30.09:600][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8930.506836
+[2025.02.10-16.30.10:599][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.30.10:600][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8931.173828, Update Interval: 325.448761
+[2025.02.10-16.36.18:934][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9299.679688
+[2025.02.10-16.36.19:934][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.36.19:934][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9300.347656, Update Interval: 349.434479
+[2025.02.10-16.43.07:935][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9708.456055
+[2025.02.10-16.43.08:935][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.43.08:935][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9709.122070, Update Interval: 331.643433
+[2025.02.10-16.49.16:269][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10076.618164
+[2025.02.10-16.49.17:269][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.49.17:269][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10077.285156, Update Interval: 349.749451
+[2025.02.10-16.55.49:937][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10470.093750
+[2025.02.10-16.55.50:937][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.55.50:937][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10470.760742, Update Interval: 327.184662
+[2025.02.10-17.02.04:605][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10844.587891
+[2025.02.10-17.02.05:605][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.02.05:605][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10845.253906, Update Interval: 349.504089
+[2025.02.10-17.03.58:000][224]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:54.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27582 files in 29844 folders with total size 7000 MiB.
+[2025.02.10-17.08.43:606][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11243.380859
+[2025.02.10-17.08.44:606][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.08.44:606][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11244.047852, Update Interval: 313.207794
+[2025.02.10-17.14.45:274][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11604.884766
+[2025.02.10-17.14.46:274][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.14.46:274][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11605.550781, Update Interval: 320.805084
+[2025.02.10-17.21.01:277][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11980.701172
+[2025.02.10-17.21.02:277][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.21.02:277][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11981.368164, Update Interval: 355.389252
+[2025.02.10-17.27.54:945][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12394.166016
+[2025.02.10-17.27.55:945][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.27.55:945][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12394.833008, Update Interval: 344.994049
+[2025.02.10-17.34.27:613][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12786.645508
+[2025.02.10-17.34.28:613][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.34.28:613][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12787.311523, Update Interval: 318.388000
+[2025.02.10-17.40.45:615][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13164.466797
+[2025.02.10-17.40.46:615][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.40.46:615][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13165.132812, Update Interval: 337.773987
+[2025.02.10-17.46.56:618][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13535.308594
+[2025.02.10-17.46.57:618][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.46.57:618][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13535.974609, Update Interval: 347.163910
+[2025.02.10-17.53.39:620][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13938.110352
+[2025.02.10-17.53.40:620][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.53.40:620][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13938.777344, Update Interval: 315.897705
+[2025.02.10-17.59.34:287][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14292.603516
+[2025.02.10-17.59.35:287][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.59.35:287][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14293.270508, Update Interval: 341.959900
+[2025.02.10-18.03.57:344][ 22]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.352 and deleted 3 files with total size 0 MiB and 3 empty folders. Scanned 27582 files in 29844 folders with total size 7000 MiB.
+[2025.02.10-18.05.51:955][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14670.078125
+[2025.02.10-18.05.52:955][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-18.05.52:955][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14670.744141, Update Interval: 307.216400
+[2025.02.10-18.11.33:622][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15011.586914
+[2025.02.10-18.11.34:622][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-18.11.34:622][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15012.252930, Update Interval: 303.916748
+[2025.02.10-18.17.27:625][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15365.437500
+[2025.02.10-18.17.28:625][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-18.17.28:625][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15366.103516, Update Interval: 356.033813
+[2025.02.10-18.24.03:545][333]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.10-18.24.03:557][333]LogSlate: Window 'AI_UnitNavMesh - Unreal Editor' being destroyed
+[2025.02.10-18.24.03:574][333]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.24.03:574][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.24.03:633][333]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.10-18.24.03:633][333]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.24.03:633][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.24.03:805][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.03:824][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.03:845][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.03:863][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.03:954][333]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2025.02.10-18.24.04:045][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Unit.Unit
+[2025.02.10-18.24.04:046][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.24.04:046][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.24.04:122][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PawnForFlag.BP_PawnForFlag
+[2025.02.10-18.24.04:123][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.24.04:123][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.24.10:610][684]LogSlate: Window 'BP_PawnForFlag' being destroyed
+[2025.02.10-18.24.12:029][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15769.648438
+[2025.02.10-18.24.12:146][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-18.24.12:146][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15769.747070, Update Interval: 338.123718
+[2025.02.10-18.24.26:819][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-18.24.26:828][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-18.24.26:828][606]PIE: New page: PIE session: AiMaze (Feb 10, 2025, 8:24:26 AM)
+[2025.02.10-18.24.26:828][606]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.24.26:838][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009897s)
+[2025.02.10-18.24.26:838][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.009937s)
+[2025.02.10-18.24.26:868][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.02.10-18.24.26:871][606]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.24.26:871][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.24.26:871][606]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.10-18.24.26:872][606]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2025.02.10-18.24.26:872][606]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-18.24.26:872][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-18.24.26:872][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-18.24.26:873][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-18.24.26:873][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-18.24.26:873][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-18.24.26:875][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-18.24.26:956][606]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-18.24.26:956][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-18.24.26:956][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-18.24.26:956][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-18.24.26:957][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.02.10-18.24.26:957][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.02.10-18.24.26:959][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.02.10-18.24.26:959][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.02.10-18.24.26:959][606]LogInit: FAudioDevice initialized with ID 13.
+[2025.02.10-18.24.26:959][606]LogAudio: Display: Audio Device (ID: 13) registered with world 'AiMaze'.
+[2025.02.10-18.24.26:959][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.10-18.24.26:961][606]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.10-18.24.26:966][606]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.10-13.24.26
+[2025.02.10-18.24.26:966][606]LogWorld: Bringing up level for play took: 0.004273
+[2025.02.10-18.24.26:968][606]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.02.10-18.24.26:972][606]PIE: Server logged in
+[2025.02.10-18.24.26:974][606]PIE: Play in editor total start time 0.146 seconds.
+[2025.02.10-18.24.42:518][533]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.10-18.24.46:677][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.46:677][780]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.24.46:677][780]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.24.46:678][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.24.46:682][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-18.24.46:687][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.24.46:708][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.10-18.24.46:708][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.10-18.24.46:708][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.10-18.24.46:711][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.10-18.24.46:721][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.24.46:726][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.02.10-18.24.46:760][781]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.02.10-18.25.26:793][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.10-18.25.26:794][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AiMaze' took 0.015
+[2025.02.10-18.25.26:795][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_PawnForFlag] ([2] browsable assets)...
+[2025.02.10-18.25.26:795][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PawnForFlag]
+[2025.02.10-18.25.26:802][825]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PawnForFlag_Auto3
+[2025.02.10-18.25.26:802][825]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/BP_PawnForFlag_Auto3EA035691487134679809588D0D5A6CE4.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/BP_PawnForFlag_Auto3.uasset'
+[2025.02.10-18.25.26:803][825]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.02.10-18.25.36:709][395]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2025.02.10-18.26.00:297][789]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.26.00:330][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.02.10-18.26.03:419][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-18.26.03:429][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-18.26.03:429][963]PIE: New page: PIE session: AiMaze (Feb 10, 2025, 8:26:03 AM)
+[2025.02.10-18.26.03:429][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.26.03:440][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011060s)
+[2025.02.10-18.26.03:440][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.011116s)
+[2025.02.10-18.26.03:459][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.10-18.26.03:463][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.26.03:463][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.26.03:464][963]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.10-18.26.03:464][963]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2025.02.10-18.26.03:464][963]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-18.26.03:464][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-18.26.03:464][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-18.26.03:465][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-18.26.03:465][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-18.26.03:465][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-18.26.03:468][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-18.26.03:553][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-18.26.03:553][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-18.26.03:553][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-18.26.03:553][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-18.26.03:554][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.02.10-18.26.03:554][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.02.10-18.26.03:557][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.02.10-18.26.03:557][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.02.10-18.26.03:557][963]LogInit: FAudioDevice initialized with ID 14.
+[2025.02.10-18.26.03:557][963]LogAudio: Display: Audio Device (ID: 14) registered with world 'AiMaze'.
+[2025.02.10-18.26.03:557][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.10-18.26.03:559][963]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.10-18.26.03:563][963]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.10-13.26.03
+[2025.02.10-18.26.03:564][963]LogWorld: Bringing up level for play took: 0.004102
+[2025.02.10-18.26.03:566][963]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.10-18.26.03:571][963]PIE: Server logged in
+[2025.02.10-18.26.03:572][963]PIE: Play in editor total start time 0.143 seconds.
+[2025.02.10-18.26.07:117][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.26.07:117][168]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.26.07:118][168]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.26.07:118][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.26.07:123][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-18.26.07:127][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.26.07:145][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.10-18.26.07:146][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.10-18.26.07:146][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.10-18.26.07:148][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.10-18.26.07:158][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.26.07:162][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.10-18.26.07:199][169]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.10-18.26.49:577][697]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.10-18.27.12:205][ 52]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.27.12:240][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.10-18.27.15:853][259]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.27.15:885][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.10-18.27.19:402][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-18.27.19:411][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-18.27.19:411][462]PIE: New page: PIE session: AiMaze (Feb 10, 2025, 8:27:19 AM)
+[2025.02.10-18.27.19:448][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.27.19:456][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008754s)
+[2025.02.10-18.27.19:456][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.008793s)
+[2025.02.10-18.27.19:476][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.10-18.27.19:479][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.27.19:479][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.27.19:480][462]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.10-18.27.19:480][462]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2025.02.10-18.27.19:480][462]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-18.27.19:480][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-18.27.19:480][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-18.27.19:481][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-18.27.19:481][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-18.27.19:481][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-18.27.19:483][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-18.27.19:556][462]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-18.27.19:556][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-18.27.19:556][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-18.27.19:556][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-18.27.19:557][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.10-18.27.19:557][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.02.10-18.27.19:559][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.10-18.27.19:559][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.10-18.27.19:559][462]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.10-18.27.19:559][462]LogAudio: Display: Audio Device (ID: 15) registered with world 'AiMaze'.
+[2025.02.10-18.27.19:559][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.10-18.27.19:562][462]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.10-18.27.19:566][462]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.10-13.27.19
+[2025.02.10-18.27.19:567][462]LogWorld: Bringing up level for play took: 0.004772
+[2025.02.10-18.27.19:569][462]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.02.10-18.27.19:573][462]PIE: Server logged in
+[2025.02.10-18.27.19:574][462]PIE: Play in editor total start time 0.163 seconds.
+[2025.02.10-18.27.35:092][388]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.10-18.27.42:068][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.27.42:068][805]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.27.42:068][805]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.27.42:069][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.27.42:073][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-18.27.42:079][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.27.42:099][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.10-18.27.42:099][805]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.10-18.27.42:099][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.10-18.27.42:102][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.10-18.27.42:110][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.27.42:115][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.10-18.27.42:153][806]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.02.10-18.27.50:290][279]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.27.50:329][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.10-18.27.56:643][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-18.27.56:653][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-18.27.56:653][649]PIE: New page: PIE session: AiMaze (Feb 10, 2025, 8:27:56 AM)
+[2025.02.10-18.27.56:677][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.27.56:687][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009473s)
+[2025.02.10-18.27.56:687][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.009518s)
+[2025.02.10-18.27.56:703][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.02.10-18.27.56:706][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.10-18.27.56:706][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.10-18.27.56:707][649]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.10-18.27.56:707][649]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2025.02.10-18.27.56:707][649]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-18.27.56:707][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-18.27.56:707][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-18.27.56:708][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-18.27.56:708][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-18.27.56:708][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-18.27.56:711][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-18.27.56:790][649]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-18.27.56:790][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-18.27.56:790][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-18.27.56:790][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-18.27.56:791][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.02.10-18.27.56:791][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.02.10-18.27.56:793][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.02.10-18.27.56:793][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.02.10-18.27.56:793][649]LogInit: FAudioDevice initialized with ID 16.
+[2025.02.10-18.27.56:793][649]LogAudio: Display: Audio Device (ID: 16) registered with world 'AiMaze'.
+[2025.02.10-18.27.56:793][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.10-18.27.56:795][649]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.10-18.27.56:799][649]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.10-13.27.56
+[2025.02.10-18.27.56:800][649]LogWorld: Bringing up level for play took: 0.004031
+[2025.02.10-18.27.56:802][649]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.10-18.27.56:806][649]PIE: Server logged in
+[2025.02.10-18.27.56:806][649]PIE: Play in editor total start time 0.154 seconds.
+[2025.02.10-18.27.59:627][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.27.59:627][811]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.10-18.27.59:627][811]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-18.27.59:628][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.27.59:631][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-18.27.59:636][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-18.27.59:653][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.10-18.27.59:653][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.10-18.27.59:653][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.10-18.27.59:656][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.10-18.27.59:662][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-18.27.59:665][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.10-18.27.59:697][812]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.10-18.29.35:173][ 81]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.29.35:204][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.02.10-18.30.49:730][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16167.120117
+[2025.02.10-18.30.50:731][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-18.30.50:731][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16167.786133, Update Interval: 354.759369
+[2025.02.10-18.34.13:285][696]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.10-18.34.13:318][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
