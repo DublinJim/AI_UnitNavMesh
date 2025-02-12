@@ -1847,3 +1847,542 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.12-14.02.35:001][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 544 ms)
 [2025.02.12-14.02.35:003][322]AssetCheck: New page: Asset Save: AiMaze
 [2025.02.12-14.02.35:004][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/AiMaze.AiMaze
+[2025.02.12-14.05.47:215][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1311.579346
+[2025.02.12-14.05.48:216][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-14.05.48:216][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1312.246338, Update Interval: 305.670959
+[2025.02.12-14.11.10:180][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1634.540894
+[2025.02.12-14.11.10:237][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Light Color entirely.
+[2025.02.12-14.11.10:278][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-14.11.10:278][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1634.621704, Update Interval: 344.732208
+[2025.02.12-14.11.12:777][  5]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.12-14.11.25:554][762]BlueprintLog: New page: Compile Unit
+[2025.02.12-14.11.25:639][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.02.12-14.11.28:222][901]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2025.02.12-14.11.33:974][238]BlueprintLog: New page: Compile Unit
+[2025.02.12-14.11.34:057][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.12-14.11.35:161][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-14.11.35:259][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Unit" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Unit.uasset" SILENT=true
+[2025.02.12-14.11.35:269][291]LogSavePackage: Moving output files for package: /Game/Unit
+[2025.02.12-14.11.35:270][291]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/UnitF7771A5D4844E5649E4225BB1DDB0D09.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Unit.uasset'
+[2025.02.12-14.11.35:288][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 671 ms)
+[2025.02.12-14.11.35:289][291]AssetCheck: New page: Asset Save: Unit
+[2025.02.12-14.11.35:289][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Unit.Unit
+[2025.02.12-14.11.37:421][415]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.11.37:429][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.11.37:429][415]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:11:37 AM)
+[2025.02.12-14.11.37:429][415]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.11.37:438][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008981s)
+[2025.02.12-14.11.37:438][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.009015s)
+[2025.02.12-14.11.37:452][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.12-14.11.37:454][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.11.37:454][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.11.37:454][415]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.11.37:455][415]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2025.02.12-14.11.37:455][415]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.11.37:455][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.11.37:455][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.11.37:455][415]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.11.37:455][415]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.11.37:455][415]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.11.37:458][415]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.11.37:527][415]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.11.37:527][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.11.37:527][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.11.37:527][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.11.37:528][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.02.12-14.11.37:528][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.02.12-14.11.37:530][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.02.12-14.11.37:530][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.02.12-14.11.37:530][415]LogInit: FAudioDevice initialized with ID 12.
+[2025.02.12-14.11.37:530][415]LogAudio: Display: Audio Device (ID: 12) registered with world 'AiMaze'.
+[2025.02.12-14.11.37:530][415]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.12-14.11.37:533][415]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.11.37:537][415]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.11.37
+[2025.02.12-14.11.37:537][415]LogWorld: Bringing up level for play took: 0.004413
+[2025.02.12-14.11.37:539][415]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.12-14.11.37:544][415]PIE: Server logged in
+[2025.02.12-14.11.37:545][415]PIE: Play in editor total start time 0.116 seconds.
+[2025.02.12-14.11.53:500][367]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.12-14.12.06:605][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.12.06:605][151]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.12.06:605][151]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.12.06:606][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.12.06:611][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.12.06:615][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.12.06:632][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-14.12.06:632][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.12-14.12.06:632][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.12-14.12.06:634][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.12-14.12.06:640][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.12.06:644][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.12-14.12.06:753][152]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.12-14.12.31:609][638]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.12.31:609][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.12.37:965][  6]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.12-14.12.37:965][  6]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.12.37:965][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.12.55:339][ 27]LogContentBrowser: Attempting asset rename: Unit -> BP_NavTracker
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker_C' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.SKEL_BP_NavTracker_C' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.SKEL_BP_NavTracker_C:ReceiveBeginPlay' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.SKEL_BP_NavTracker_C:ReceiveTick' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.SKEL_BP_NavTracker_C:UserConstructionScript' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker_C:ReceiveTick' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker_C:ReceiveBeginPlay' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker_C:OnSuccess_13DF8E9A4CB214E4B8B261A9CEBCC88F' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:373][ 27]LogMetaData: Removing '/Game/BP_NavTracker.BP_NavTracker_C:OnFail_13DF8E9A4CB214E4B8B261A9CEBCC88F' ref from Metadata '/Game/Unit.PackageMetaData'
+[2025.02.12-14.12.55:394][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-14.12.55:441][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NavTracker" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/BP_NavTracker.uasset" SILENT=true
+[2025.02.12-14.12.55:453][ 27]LogSavePackage: Moving output files for package: /Game/BP_NavTracker
+[2025.02.12-14.12.55:453][ 27]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/BP_NavTracker60467BB044098DC708CCEF8A2F56E047.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/BP_NavTracker.uasset'
+[2025.02.12-14.12.55:460][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Unit" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Unit.uasset" SILENT=true
+[2025.02.12-14.12.55:464][ 27]LogSavePackage: Moving output files for package: /Game/Unit
+[2025.02.12-14.12.55:464][ 27]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Unit0D247CF1486484713C148A9B1D467435.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Content/Unit.uasset'
+[2025.02.12-14.12.55:477][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 754 ms)
+[2025.02.12-14.12.55:479][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.12-14.12.55:479][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NavTracker.BP_NavTracker
+[2025.02.12-14.12.55:479][ 27]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Unit.Unit_C
+[2025.02.12-14.12.55:479][ 27]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Unit.Unit
+[2025.02.12-14.12.55:479][ 27]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Unit.Default__Unit_C
+[2025.02.12-14.12.55:536][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.12.58:605][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.12.58:614][211]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.12-14.12.58:615][211]LogPlayLevel: [PlayLevel] Compiling BP_Lightshow before play...
+[2025.02.12-14.12.58:645][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.12-14.12.58:655][211]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2025.02.12-14.12.58:655][211]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:12:58 AM)
+[2025.02.12-14.12.58:655][211]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.12.58:665][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2025.02.12-14.12.58:666][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.010300s)
+[2025.02.12-14.12.58:684][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.12-14.12.58:685][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.12.58:685][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.12.58:685][211]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.12.58:686][211]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2025.02.12-14.12.58:686][211]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.12.58:686][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.12.58:686][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.12.58:687][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.12.58:687][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.12.58:687][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.12.58:689][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.12.58:766][211]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.12.58:766][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.12.58:767][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.12.58:767][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.12.58:767][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.02.12-14.12.58:767][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.02.12-14.12.58:769][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.02.12-14.12.58:769][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.02.12-14.12.58:769][211]LogInit: FAudioDevice initialized with ID 13.
+[2025.02.12-14.12.58:769][211]LogAudio: Display: Audio Device (ID: 13) registered with world 'AiMaze'.
+[2025.02.12-14.12.58:769][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.12-14.12.58:771][211]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.12.58:776][211]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.12.58
+[2025.02.12-14.12.58:776][211]LogWorld: Bringing up level for play took: 0.004328
+[2025.02.12-14.12.58:778][211]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.12-14.12.58:781][211]PIE: Server logged in
+[2025.02.12-14.12.58:782][211]PIE: Play in editor total start time 0.168 seconds.
+[2025.02.12-14.13.14:691][160]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.12-14.13.16:735][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.13.16:735][281]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.13.16:735][281]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.13.16:736][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.13.16:741][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.13.16:745][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.13.16:759][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.13.16:760][281]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.12-14.13.16:760][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.12-14.13.16:762][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.12-14.13.16:775][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.12-14.13.16:878][282]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.12-14.13.23:391][669]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2025.02.12-14.14.21:749][628]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.12-14.14.23:492][725]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.12-14.14.23:521][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.12-14.14.26:892][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.14.26:900][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.14.26:900][907]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:14:26 AM)
+[2025.02.12-14.14.26:901][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.14.26:913][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012561s)
+[2025.02.12-14.14.26:913][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.012594s)
+[2025.02.12-14.14.26:927][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.12-14.14.26:930][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.14.26:930][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.14.26:931][907]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.14.26:931][907]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2025.02.12-14.14.26:931][907]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.14.26:931][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.14.26:931][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.14.26:932][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.14.26:932][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.14.26:932][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.14.26:934][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.14.27:001][907]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.14.27:001][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.14.27:001][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.14.27:001][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.14.27:002][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.02.12-14.14.27:002][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.02.12-14.14.27:004][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.02.12-14.14.27:004][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.02.12-14.14.27:004][907]LogInit: FAudioDevice initialized with ID 14.
+[2025.02.12-14.14.27:004][907]LogAudio: Display: Audio Device (ID: 14) registered with world 'AiMaze'.
+[2025.02.12-14.14.27:004][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.12-14.14.27:007][907]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.14.27:010][907]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.14.27
+[2025.02.12-14.14.27:010][907]LogWorld: Bringing up level for play took: 0.004364
+[2025.02.12-14.14.27:013][907]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.02.12-14.14.27:017][907]PIE: Server logged in
+[2025.02.12-14.14.27:018][907]PIE: Play in editor total start time 0.117 seconds.
+[2025.02.12-14.14.42:879][853]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.14.43:479][889]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.12-14.14.47:035][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.14.47:035][100]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.14.47:035][100]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.14.47:036][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.14.47:040][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.14.47:045][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.14.47:062][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-14.14.47:062][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.12-14.14.47:062][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.12-14.14.47:065][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.12-14.14.47:070][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.14.47:074][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.12-14.14.47:178][101]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.02.12-14.14.51:891][381]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.14.51:899][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.14.51:899][381]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:14:51 AM)
+[2025.02.12-14.14.51:899][381]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.14.51:909][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009596s)
+[2025.02.12-14.14.51:909][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.009627s)
+[2025.02.12-14.14.51:926][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.02.12-14.14.51:930][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.14.51:930][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.14.51:930][381]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.14.51:931][381]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2025.02.12-14.14.51:931][381]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.14.51:931][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.14.51:931][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.14.51:931][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.14.51:931][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.14.51:931][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.14.51:934][381]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.14.51:998][381]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.14.51:998][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.14.51:998][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.14.51:998][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.14.51:999][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.12-14.14.51:999][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.02.12-14.14.52:001][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.12-14.14.52:001][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.12-14.14.52:001][381]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.12-14.14.52:001][381]LogAudio: Display: Audio Device (ID: 15) registered with world 'AiMaze'.
+[2025.02.12-14.14.52:001][381]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.12-14.14.52:004][381]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.14.52:008][381]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.14.52
+[2025.02.12-14.14.52:008][381]LogWorld: Bringing up level for play took: 0.004447
+[2025.02.12-14.14.52:010][381]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.02.12-14.14.52:013][381]PIE: Server logged in
+[2025.02.12-14.14.52:014][381]PIE: Play in editor total start time 0.115 seconds.
+[2025.02.12-14.15.07:371][297]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.15.07:972][333]LogBlueprintUserMessages: [BP_AI_Follow_C_1] Sucess
+[2025.02.12-14.15.11:095][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.15.11:095][518]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.15.11:095][518]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.15.11:096][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.15.11:100][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.15.11:104][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.15.11:121][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.15.11:122][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.12-14.15.11:122][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.12-14.15.11:124][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.12-14.15.11:134][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.12-14.15.11:247][519]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.02.12-14.15.22:234][736]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.12-14.15.37:425][629]BlueprintLog: New page: Compile BP_PawnForFlag
+[2025.02.12-14.15.37:458][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.12-14.16.13:559][734]BlueprintLog: New page: Compile BP_NavTracker
+[2025.02.12-14.16.13:645][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.12-14.16.15:157][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.16.15:165][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.16.15:165][804]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:16:15 AM)
+[2025.02.12-14.16.15:165][804]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.16.15:174][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008896s)
+[2025.02.12-14.16.15:174][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.008927s)
+[2025.02.12-14.16.15:188][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.02.12-14.16.15:194][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.16.15:194][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.16.15:195][804]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.16.15:195][804]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2025.02.12-14.16.15:195][804]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.16.15:195][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.16.15:195][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.16.15:196][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.16.15:196][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.16.15:196][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.16.15:198][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.16.15:271][804]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.16.15:271][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.16.15:271][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.16.15:271][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.16.15:272][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.02.12-14.16.15:272][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.02.12-14.16.15:274][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.02.12-14.16.15:274][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.02.12-14.16.15:274][804]LogInit: FAudioDevice initialized with ID 16.
+[2025.02.12-14.16.15:274][804]LogAudio: Display: Audio Device (ID: 16) registered with world 'AiMaze'.
+[2025.02.12-14.16.15:274][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.12-14.16.15:276][804]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.16.15:281][804]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.16.15
+[2025.02.12-14.16.15:281][804]LogWorld: Bringing up level for play took: 0.004315
+[2025.02.12-14.16.15:283][804]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.02.12-14.16.15:287][804]PIE: Server logged in
+[2025.02.12-14.16.15:288][804]PIE: Play in editor total start time 0.123 seconds.
+[2025.02.12-14.16.30:638][719]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.16.42:145][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.16.42:145][407]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.16.42:145][407]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.16.42:146][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.16.42:155][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.16.42:159][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.16.42:173][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.16.42:173][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.12-14.16.42:174][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.12-14.16.42:176][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.12-14.16.42:186][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.12-14.16.42:297][408]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.02.12-14.17.35:698][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.12-14.17.35:703][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AiMaze" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/AiMaze_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.02.12-14.17.35:750][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AiMaze_Auto2
+[2025.02.12-14.17.35:750][856]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/AiMaze_Auto2BAA604E2460F0394DEFA49B71A5515A9.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/AiMaze_Auto2.umap'
+[2025.02.12-14.17.35:756][856]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/AiMaze_Auto2.umap is in the /Temp path, will not scan.
+[2025.02.12-14.17.35:756][856]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AiMaze' took 0.076
+[2025.02.12-14.17.35:756][856]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2025.02.12-14.17.35:757][856]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_PawnForFlag] ([2] browsable assets)...
+[2025.02.12-14.17.35:876][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_PawnForFlag.BP_PawnForFlag]
+[2025.02.12-14.17.35:876][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PawnForFlag]
+[2025.02.12-14.17.35:891][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PawnForFlag_Auto2
+[2025.02.12-14.17.35:893][856]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/BP_PawnForFlag_Auto2A7C411F145422D1F36BDF5A7684F3E66.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/BP_PawnForFlag_Auto2.uasset'
+[2025.02.12-14.17.35:895][856]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Lightshow] ([2] browsable assets)...
+[2025.02.12-14.17.35:924][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Lightshow.BP_Lightshow]
+[2025.02.12-14.17.35:924][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Lightshow]
+[2025.02.12-14.17.35:924][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Lightshow" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/BP_Lightshow_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.02.12-14.17.35:930][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Lightshow_Auto2
+[2025.02.12-14.17.35:930][856]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/BP_Lightshow_Auto23909801D4FF0501A8F0D49A49850A477.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/BP_Lightshow_Auto2.uasset'
+[2025.02.12-14.17.35:932][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/The_bot_Cue] ([1] browsable assets)...
+[2025.02.12-14.17.35:932][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/The_bot_Cue]
+[2025.02.12-14.17.35:932][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/The_bot_Cue" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/The_bot_Cue_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.02.12-14.17.35:936][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/The_bot_Cue_Auto2
+[2025.02.12-14.17.35:937][856]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/The_bot_Cue_Auto274E2EE87466E1D3BA284148397E2A1D6.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/The_bot_Cue_Auto2.uasset'
+[2025.02.12-14.17.35:938][856]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NavTracker] ([2] browsable assets)...
+[2025.02.12-14.17.35:971][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NavTracker.BP_NavTracker]
+[2025.02.12-14.17.35:971][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NavTracker]
+[2025.02.12-14.17.35:983][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_NavTracker_Auto2
+[2025.02.12-14.17.35:983][856]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/BP_NavTracker_Auto2DB33939B47E7057518D46C930D8FA99A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/AI_UnitNavMesh/Saved/Autosaves/Game/BP_NavTracker_Auto2.uasset'
+[2025.02.12-14.17.35:984][856]LogFileHelpers: Auto-saving content packages took 0.228
+[2025.02.12-14.17.53:350][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2037.714600
+[2025.02.12-14.17.54:350][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-14.17.54:350][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2038.380859, Update Interval: 328.257690
+[2025.02.12-14.20.16:986][622]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.20.16:995][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.20.16:995][622]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:20:16 AM)
+[2025.02.12-14.20.16:995][622]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.20.17:005][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010343s)
+[2025.02.12-14.20.17:005][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.010390s)
+[2025.02.12-14.20.17:024][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.02.12-14.20.17:028][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.20.17:028][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.20.17:029][622]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.20.17:029][622]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2025.02.12-14.20.17:029][622]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.20.17:029][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.20.17:029][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.20.17:030][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.20.17:030][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.20.17:030][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.20.17:033][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.20.17:109][622]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.20.17:109][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.20.17:109][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.20.17:109][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.20.17:110][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.02.12-14.20.17:110][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.02.12-14.20.17:113][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.02.12-14.20.17:113][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.02.12-14.20.17:113][622]LogInit: FAudioDevice initialized with ID 17.
+[2025.02.12-14.20.17:113][622]LogAudio: Display: Audio Device (ID: 17) registered with world 'AiMaze'.
+[2025.02.12-14.20.17:113][622]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.12-14.20.17:116][622]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.20.17:123][622]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.20.17
+[2025.02.12-14.20.17:123][622]LogWorld: Bringing up level for play took: 0.006497
+[2025.02.12-14.20.17:127][622]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.02.12-14.20.17:133][622]PIE: Server logged in
+[2025.02.12-14.20.17:134][622]PIE: Play in editor total start time 0.139 seconds.
+[2025.02.12-14.20.32:475][536]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.20.38:506][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.20.38:506][896]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.20.38:506][896]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.20.38:507][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.20.38:513][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.20.38:518][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.20.38:536][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.20.38:537][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.12-14.20.38:537][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.12-14.20.38:539][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.12-14.20.38:551][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.02.12-14.20.38:632][897]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.02.12-14.20.55:702][780]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.20.55:719][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.20.55:719][780]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:20:55 AM)
+[2025.02.12-14.20.55:720][780]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.20.55:734][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014499s)
+[2025.02.12-14.20.55:734][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.014555s)
+[2025.02.12-14.20.55:756][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.12-14.20.55:762][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.20.55:763][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.20.55:763][780]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.20.55:763][780]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2025.02.12-14.20.55:764][780]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.20.55:764][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.20.55:764][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.20.55:764][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.20.55:764][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.20.55:764][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.20.55:767][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.20.55:865][780]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.20.55:865][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.20.55:865][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.20.55:865][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.20.55:865][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.02.12-14.20.55:865][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.02.12-14.20.55:868][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.02.12-14.20.55:868][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.02.12-14.20.55:868][780]LogInit: FAudioDevice initialized with ID 18.
+[2025.02.12-14.20.55:868][780]LogAudio: Display: Audio Device (ID: 18) registered with world 'AiMaze'.
+[2025.02.12-14.20.55:868][780]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.12-14.20.55:871][780]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.20.55:877][780]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.20.55
+[2025.02.12-14.20.55:877][780]LogWorld: Bringing up level for play took: 0.005654
+[2025.02.12-14.20.55:880][780]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.02.12-14.20.55:886][780]PIE: Server logged in
+[2025.02.12-14.20.55:887][780]PIE: Play in editor total start time 0.174 seconds.
+[2025.02.12-14.21.09:276][574]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.21.16:735][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.21.16:735][ 20]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.21.16:736][ 20]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.21.16:736][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.21.16:742][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.21.16:747][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.21.16:765][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-14.21.16:766][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.12-14.21.16:766][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.12-14.21.16:768][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.12-14.21.16:775][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.21.16:779][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.02.12-14.21.16:846][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.02.12-14.23.09:305][540]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.02.12-14.24.07:246][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2411.602051
+[2025.02.12-14.24.07:345][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-14.24.07:345][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2411.686279, Update Interval: 353.538025
+[2025.02.12-14.24.10:740][973]BlueprintLog: New page: Compile BP_NavTracker
+[2025.02.12-14.24.10:777][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.12-14.24.13:100][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-14.24.13:110][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-14.24.13:110][102]PIE: New page: PIE session: AiMaze (Feb 12, 2025, 4:24:13 AM)
+[2025.02.12-14.24.13:110][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.24.13:121][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010375s)
+[2025.02.12-14.24.13:121][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AiMaze.AiMaze to /Game/UEDPIE_0_AiMaze.AiMaze (0.010414s)
+[2025.02.12-14.24.13:140][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.12-14.24.13:143][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-14.24.13:143][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-14.24.13:144][102]LogAIModule: Creating AISystem for world AiMaze
+[2025.02.12-14.24.13:144][102]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2025.02.12-14.24.13:144][102]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-14.24.13:144][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-14.24.13:144][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-14.24.13:145][102]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-14.24.13:145][102]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-14.24.13:145][102]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-14.24.13:149][102]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-14.24.13:217][102]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.12-14.24.13:217][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-14.24.13:217][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-14.24.13:217][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-14.24.13:218][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.02.12-14.24.13:218][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.02.12-14.24.13:220][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.02.12-14.24.13:220][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.02.12-14.24.13:220][102]LogInit: FAudioDevice initialized with ID 19.
+[2025.02.12-14.24.13:220][102]LogAudio: Display: Audio Device (ID: 19) registered with world 'AiMaze'.
+[2025.02.12-14.24.13:220][102]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.02.12-14.24.13:223][102]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-14.24.13:227][102]LogWorld: Bringing World /Game/UEDPIE_0_AiMaze.AiMaze up for play (max tick rate 60) at 2025.02.12-09.24.13
+[2025.02.12-14.24.13:228][102]LogWorld: Bringing up level for play took: 0.004577
+[2025.02.12-14.24.13:231][102]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.02.12-14.24.13:236][102]PIE: Server logged in
+[2025.02.12-14.24.13:237][102]PIE: Play in editor total start time 0.127 seconds.
+[2025.02.12-14.24.26:666][901]LogBlueprintUserMessages: [BP_PawnForFlag_C_1] REACHED
+[2025.02.12-14.24.30:155][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.24.30:156][109]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AiMaze
+[2025.02.12-14.24.30:156][109]LogWorld: UWorld::CleanupWorld for AiMaze, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-14.24.30:157][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.24.30:176][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-14.24.30:180][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-14.24.30:201][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-14.24.30:201][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.02.12-14.24.30:201][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.02.12-14.24.30:203][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.02.12-14.24.30:215][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.02.12-14.24.30:266][110]LogPlayLevel: Display: Destroying online subsystem :Context_29
